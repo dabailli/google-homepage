@@ -1,0 +1,2 @@
+This is an attempt at recreating the google home page as directed from the curriculum within the odinproject. 
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
